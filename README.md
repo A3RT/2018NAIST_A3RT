@@ -1,25 +1,25 @@
-# ビッグデータアナリティクス 課題 "A3RTを超える分類器をつくろう！"
+# ビッグデータアナリティクス 課題 "A3RTを超える分類器をつくる！"
 ## 課題概要
 
 1. 課題のデータセットに対して分類器を作成してください
-   ・A3RTの[TextClassificationAPI](https://a3rt.recruit-tech.co.jp/product/textClassificationAPI/)を超えるレベルを目標とします。ベンチマークとしてTextClassificationでモデルを作成し、ご自身のモデルとの比較を行ってください。
+- A3RTの[TextClassificationAPI](https://a3rt.recruit-tech.co.jp/product/textClassificationAPI/)を超えるレベルを目標とします。ベンチマークとしてTextClassificationでモデルを作成し、ご自身のモデルとの比較を行ってください。
    
 2. 12/9(日)までにテストデータに対する分類精度を提出してください
 
 3. 12/10(月)に取り組み内容の発表をお願いします
- ・分類器の概要
- ・工夫した点
- ・TextClassificationAPIとの比較考察
+- 分類器の概要
+- 工夫した点
+- TextClassificationAPIとの比較考察
 
 ## 作成物
-・テキスト分類器
-・テストデータに対する結果提出（12/9締切）： misa_tanaka(misa_t@r.recruit.co.jp)
-・取り組み内容の発表資料（12/10発表）
+- テキスト分類器
+- テストデータに対する結果提出（12/9締切）:田中(misa_t@r.recruit.co.jp)宛送付
+- 取り組み内容の発表資料（12/10発表）
 
 ## 対象データ・セット
-20 Newsgroups
-・トレーニングデータ(リンク)
-・テストデータ&評価フォーマット（リンク）
+### 20 Newsgroups 
+- トレーニングデータ(リンク)
+- テストデータ（リンク）
 
 ## 発表当日スケジュール
 1. RTCより提出物の精度順位を発表
@@ -28,7 +28,7 @@
 
 
 ## 注意点
-・分類精度は成績には影響しません
+- 分類精度は成績には影響しません
 
 
 ## 質問
@@ -38,5 +38,3 @@
 
 ## 作成者
 misa_tanaka(misa_t@r.recruit.co.jp)
-
-
