@@ -19,7 +19,7 @@
 ## 対象データ・セット
 ### 20 Newsgroups 
 - [トレーニングデータ](リンク)
-- [テストデータ]（https://github.com/misa-t/2018NAIST_A3RT/blob/master/%E8%A9%95%E4%BE%A1%E6%A4%9C%E8%A8%BC_%E6%8F%90%E5%87%BA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88.csv）
+- [テストデータ]（lob/master/%E8%A9%95%E4%BE%A1%E6%A4%9C%E8%A8%BC_%E6%8F%90%E5%87%BA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88.csv）
 
 ## 発表当日スケジュール
 1. RTCより提出物の精度順位を発表
