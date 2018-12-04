@@ -18,7 +18,7 @@
 
 ## 対象データ・セット
 ### 20 Newsgroups 
-- [トレーニングデータ](リンク) (12月3日以降リンクを有効化)
+- [トレーニングデータ](http://firestorage.jp/download/33f1121a197cd0ed558e7f2b5915cf02e6806f04) (12月3日以降リンクを有効化)
 - [テストデータ](https://github.com/A3RT/2018NAIST_A3RT/blob/master/%E8%A9%95%E4%BE%A1%E6%A4%9C%E8%A8%BC_%E6%8F%90%E5%87%BA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88.csv)
 
 ## 発表当日スケジュール
@@ -64,7 +64,7 @@ misa_tanaka(misa_t@r.recruit.co.jp)
 
 ## Dataset
 ### 20 Newsgroups 
-- [Training data](Link) (The link will be activated on 12/3)
+- [Training data](http://firestorage.jp/download/33f1121a197cd0ed558e7f2b5915cf02e6806f04) (The link will be activated on 12/3)
 - [Test data](https://github.com/misa-https://github.com/A3RT/2018NAIST_A3RT/blob/master/%E8%A9%95%E4%BE%A1%E6%A4%9C%E8%A8%BC_%E6%8F%90%E5%87%BA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88.csv)
 
 ## Schedule on 12/10
