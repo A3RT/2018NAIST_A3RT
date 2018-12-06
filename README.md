@@ -77,9 +77,8 @@ misa_tanaka(misa_t@r.recruit.co.jp)
 
 
 ## Questions
+Please send masssage to misa_t@r.recruit.co.jp if youhave any question.
 
-You can post a new issue on this repository if you have any questions on the group work.
-Please make sure not to include your personal information (names and student IDs) in the post.
 
 ## Contact
 misa_tanaka(misa_t@r.recruit.co.jp)
